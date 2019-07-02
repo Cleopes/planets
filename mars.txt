@@ -5,4 +5,5 @@ But the Mummy will appreciate the lack of humidity
 A very ill-considered change
 The project will be closed for lack of funding and appetite
 
+print ("hellow mars!")
 
